@@ -40,9 +40,10 @@ jobs:
           java-version: 21
 
        - name: Configurar Android SDK
-        run: |
+         run: |
           yes | sdkmanager --licenses
-          sdkmanager "platform-tools" "platforms;android-36" "build-tools;36.0.0"
+         sdkmanager "platform-tools"
+"platforms;android-36""build-tools;36.0.0"
 
       - name: Instalar dependencias
         run: pnpm install --frozen-lockfile
