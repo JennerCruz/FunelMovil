@@ -1,0 +1,1322 @@
+{
+  "INICIO": [
+    [
+      null,
+      "🔍 DN CELULAR",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "Nuevo Registro ➕",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "LINKS",
+      null,
+      null,
+      "CICLOS FACTURAS",
+      null,
+      null,
+      "COMENTARIOS",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "REGISTRO VENTAS →",
+      null,
+      null,
+      "EMISION",
+      "LIMT PAGO",
+      null,
+      "SIM-UNIVERSAL",
+      "False",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "REGISTRAR TURNO →",
+      null,
+      null,
+      "DIA 2",
+      "DIA 17",
+      null,
+      "REPOSICION-SIM",
+      "False",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "IR A ONIX →",
+      null,
+      null,
+      "DIA 5",
+      "DIA 20",
+      null,
+      "PORTA-TLMK",
+      "False",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "IR A CONOCE+ →",
+      null,
+      null,
+      "DIA 1O",
+      "DIA 25",
+      null,
+      "MIGRAC-TLMK",
+      "False",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "IR A PAYJOY →",
+      null,
+      null,
+      "DIA 15",
+      "DIA 30",
+      null,
+      "COD-MIGRA-TLMK",
+      "False",
+      "",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "IR A WHATSAPP →",
+      null,
+      null,
+      "DIA 17",
+      "DIA 12",
+      null,
+      "CHECK-2DA LINEA",
+      "False",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "IR A 2DA LINEA →",
+      null,
+      null,
+      "DIA 2O",
+      "DIA 4",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      "BUZON DE ENTRADA →",
+      null,
+      null,
+      "DIA 24",
+      "DIA 8",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "DIA 28",
+      "DIA 12",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Base_Datos_Movimientos": [
+    [
+      "SISTEMA ÓNIX - BASE DE DATOS DE MOVIMIENTOS Y GESTIONES (MENÚS EN CASCADA)",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "ID Registro",
+      "Fecha",
+      "DN Celular",
+      "SERV. AL CLIENTE",
+      "OPERACION",
+      "ICCID",
+      "RFC",
+      "Orden / Folio",
+      "Canal Atención (Menú 3)",
+      "Modalidad (Menú 4)",
+      "CODIFICADO",
+      "Notas / Observaciones"
+    ],
+    [
+      "OPE--001",
+      "2026-10-31",
+      "9511880844",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8952031000474543623F",
+      null,
+      null,
+      "Telemarketing / Outbound",
+      "Prepago",
+      "SI",
+      null
+    ],
+    [
+      "OPE-000",
+      "2026-10-31",
+      "9513330567",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8952031000474543607F",
+      null,
+      null,
+      "CAP / Tienda",
+      "Postpago Puro",
+      "SI",
+      null
+    ],
+    [
+      "OPE-001",
+      "2026-10-31",
+      "9513322241",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8952031000474543599F",
+      null,
+      null,
+      "CAP / Tienda",
+      "Postpago Control",
+      "SI",
+      null
+    ],
+    [
+      "OPE-002",
+      "2026-10-31",
+      "9511618692",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8952031000474543672F",
+      null,
+      null,
+      "Call Center / FO",
+      "Postpago Puro",
+      "SI",
+      null
+    ],
+    [
+      "OPE-003",
+      "2026-10-31",
+      "9511752912",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8952031000474543664F",
+      null,
+      null,
+      "CAP / Tienda",
+      "Prepago",
+      "SI",
+      null
+    ],
+    [
+      "OPE-004",
+      "2026-10-31",
+      "9515103332",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8952031000474543896F",
+      null,
+      null,
+      "Canal Digital / Web",
+      "Postpago Puro",
+      "SI",
+      null
+    ],
+    [
+      "OPE-005",
+      "2026-10-31",
+      "9514750358",
+      "TELEMARKETIN",
+      "MIG-POSAGO",
+      "8952031000474543920F",
+      null,
+      null,
+      "CAP / Tienda",
+      "Postpago Puro",
+      "SI",
+      "SATATUS DE LA LINEA DESACTIVADA"
+    ],
+    [
+      "OPE-006",
+      "2026-03-11 00:00:00",
+      "9541288180",
+      "SIM",
+      "REPOSION",
+      "NA",
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-007",
+      "2026-11-06 00:00:00",
+      "9511559627",
+      "VENTAS",
+      "VENTA-UNIVERSAL",
+      "8952031000474543961F",
+      "OIPS8306142H1",
+      "9718037587",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-008",
+      "2026-11-06 00:00:00",
+      "9512441441",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8.95203100047454e+18",
+      "PORT261030",
+      "9718251674",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-009",
+      "2026-03-11 00:00:00",
+      "3141431753",
+      "VENTAS",
+      "REPOSICION",
+      "8952031000474543938F",
+      "PORT140102",
+      "9718764289",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-010",
+      "2026-03-11 00:00:00",
+      "9515891865",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8952031000474540000",
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      "consulta-posible candidato porta pos"
+    ],
+    [
+      "OPE-011",
+      "2026-03-11 00:00:00",
+      "9518352942",
+      "TELEMARKETIN",
+      "MIG-POSAGO",
+      "8.95203100047464e+18",
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-012",
+      "2026-03-11 00:00:00",
+      "9512463806",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8.95203100047454e+18",
+      null,
+      "9721810611",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-013",
+      "2026-03-11 00:00:00",
+      "9512031497",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8.95203100047454e+18",
+      null,
+      "9721837241",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-014",
+      "2026-03-11 00:00:00",
+      "9512979134",
+      "SIM",
+      "CAMBIO SIM-ESIM",
+      null,
+      null,
+      "9722127750",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-015",
+      "2026-03-11 00:00:00",
+      "9321041601",
+      "VENTAS",
+      "VENTA POSPAGO",
+      "8.95203100047454e+18",
+      null,
+      "9722015823",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-016",
+      "2026-04-11 00:00:00",
+      "9514981041",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8.95203100047454e+18",
+      null,
+      "9723832764",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-017",
+      "2026-04-11 00:00:00",
+      "9511643987",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8.95203100047454e+18",
+      null,
+      "9724050615",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-018",
+      "2026-04-11 00:00:00",
+      "9514751925",
+      "TELEMARKETIN",
+      "PREPAGO",
+      null,
+      null,
+      "9724195083",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-019",
+      "2026-04-11 00:00:00",
+      "9518599914",
+      "TELEMARKETIN",
+      "PREPAGO",
+      "8.95203100047454e+18",
+      null,
+      "9724752212",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-020",
+      "2026-04-11 00:00:00",
+      "6646114124",
+      "SIM",
+      "CAMBIO SIM-ESIM",
+      null,
+      null,
+      "9724890940",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-021",
+      "2026-04-11 00:00:00",
+      "9511983597",
+      "TELEMARKETIN",
+      "PREPAGO",
+      null,
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-022",
+      "2026-05-11 00:00:00",
+      "9821028315",
+      "VENTAS",
+      "VENTA PREPAGO",
+      "8952031000474545396F",
+      null,
+      "9727002827",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-023",
+      "2026-05-11 00:00:00",
+      "9516466640",
+      "TELEMARKETIN",
+      null,
+      "8952031000474545446F",
+      null,
+      "9727002827",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-024",
+      "2026-05-11 00:00:00",
+      "9513321290",
+      "TELEMARKETIN",
+      null,
+      "8952031000474545438F",
+      null,
+      "9727060764",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-025",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "727608476",
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "OPE-026",
+      "2026-06-11 00:00:00",
+      "9513290160",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-027",
+      "2026-06-11 00:00:00",
+      "9511826325",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-028",
+      "2026-06-11 00:00:00",
+      "9511309110",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-029",
+      "2026-06-11 00:00:00",
+      "9516360807",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-030",
+      "2026-06-11 00:00:00",
+      "9511309110",
+      null,
+      null,
+      null,
+      null,
+      "9730707617",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-031",
+      "2026-06-11 00:00:00",
+      "9518007438",
+      null,
+      null,
+      null,
+      null,
+      "9730462896",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-032",
+      null,
+      "9513296039",
+      null,
+      null,
+      null,
+      null,
+      "9730519141",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-033",
+      null,
+      "9513808856",
+      null,
+      null,
+      null,
+      null,
+      "9730790253",
+      null,
+      null,
+      "SI",
+      null
+    ],
+    [
+      "OPE-034",
+      null,
+      "9514209485",
+      null,
+      null,
+      null,
+      "HECA8210149KA",
+      "9730998324",
+      null,
+      null,
+      "SI",
+      null
+    ]
+  ],
+  "Config_Catalogos": [
+    [
+      "CATÁLOGOS MAESTROS Y CONFIGURACIÓN DE MENÚS EN CASCADA",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      "Área / Macroservicio",
+      "Modalidad",
+      "Estatus Ónix",
+      "VENTAS",
+      "TELEMARKETIN",
+      "SIM",
+      "Gestión Financiera",
+      "Canales General",
+      "CODIFICADO"
+    ],
+    [
+      "VENTAS",
+      "Postpago Puro",
+      "Finalizado",
+      "VENTA POSPAGO",
+      "PREPAGO",
+      null,
+      "Devolución de Equipo (NOM-184)",
+      "Telemarketing / Outbound",
+      null
+    ],
+    [
+      "TELEMARKETIN",
+      "Postpago Control",
+      "Esperando / En Proceso",
+      "VENTA PREPAGO",
+      "POSPAGO",
+      null,
+      "Reembolso de Depósito",
+      "CAP / Tienda",
+      null
+    ],
+    [
+      "SIM",
+      "Prepago",
+      "Cancelado",
+      "TERMINAL",
+      "MIG-POSAGO",
+      "CAMBIO SIM-ESIM",
+      "Cobro Renta Anticipada",
+      "Canal Digital / Web",
+      null
+    ],
+    [
+      "Gestión Financiera",
+      null,
+      "Suspendido",
+      "TERM-POS",
+      null,
+      "PORTABILIDAD",
+      "Liquidación Financiamiento",
+      "Call Center / FO",
+      null
+    ],
+    [
+      "ATENCION",
+      null,
+      null,
+      "TERM-PRE",
+      null,
+      "REPOSION",
+      null,
+      "Back Office",
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "REPOSICION",
+      null,
+      "DANO/0.00",
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "MIGRACION",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "ADICCION",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "RENOVACION",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "SIM-UNIVERSAL",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    [
+      null,
+      null,
+      null,
+      "ESIM",
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  ],
+  "Hoja1": [
+    [
+      "FECHA",
+      "2026-11-06 00:00:00",
+      null
+    ],
+    [
+      "CAC",
+      "CAC OAXACA",
+      null
+    ],
+    [
+      "EJECUTIVO",
+      "EDUARDO LUIS CRUZ",
+      null
+    ],
+    [
+      "TIPO DE FLUJO",
+      null,
+      null
+    ],
+    [
+      null,
+      "ATENCION GENERAL NO CUENTA TLMK",
+      "4"
+    ],
+    [
+      "TLMK",
+      "TLMK $60",
+      "1"
+    ],
+    [
+      null,
+      "TLMK $90",
+      "0"
+    ],
+    [
+      null,
+      "TLMK $100",
+      "5"
+    ],
+    [
+      null,
+      "MIGRACIONES TLMK",
+      "0"
+    ],
+    [
+      null,
+      "JUMP",
+      "0"
+    ],
+    [
+      null,
+      "TRAFICO TOTAL TLMK",
+      "0"
+    ],
+    [
+      "POSPAGO",
+      "PRO ILIMITADO",
+      "0"
+    ],
+    [
+      null,
+      "PRO 30.",
+      "0"
+    ],
+    [
+      null,
+      "PRO 20",
+      "0"
+    ],
+    [
+      null,
+      "PRO 18",
+      "0"
+    ],
+    [
+      null,
+      "PRO 16",
+      "0"
+    ],
+    [
+      null,
+      "SOHO",
+      "0"
+    ],
+    [
+      null,
+      "PRE PLAN",
+      "0"
+    ],
+    [
+      "TERMINALES",
+      "RENOVACION",
+      "0"
+    ],
+    [
+      null,
+      "PAYJOY",
+      "0"
+    ],
+    [
+      null,
+      "PREPAGO",
+      "0"
+    ],
+    [
+      null,
+      "MSI",
+      "0"
+    ],
+    [
+      null,
+      "RENO TLMK",
+      "0"
+    ],
+    [
+      "VENTAS",
+      "POSPAGO TOTAL",
+      "0"
+    ],
+    [
+      null,
+      "TERMINALES",
+      "0"
+    ],
+    [
+      null,
+      "PREPAGO TOTAL",
+      "0"
+    ],
+    [
+      null,
+      "SEGUROS",
+      "0"
+    ],
+    [
+      null,
+      "NBA",
+      "0"
+    ],
+    [
+      null,
+      "COTIZACIONES PAYJOY",
+      "0"
+    ],
+    [
+      null,
+      "COTIZACIONES PLATA",
+      "0"
+    ],
+    [
+      null,
+      "TOTAL ATENCIONES",
+      "4"
+    ],
+    [
+      null,
+      "CONVERSION POS",
+      "0"
+    ],
+    [
+      null,
+      "CONVERSION TEMM",
+      "0"
+    ],
+    [
+      null,
+      "CONVERSION PAYJOY",
+      "#DIV/0!"
+    ],
+    [
+      null,
+      "CONVERSION PRE",
+      "0"
+    ],
+    [
+      null,
+      "CONVERSION TMLK",
+      "0"
+    ],
+    [
+      null,
+      "REFERIDOS",
+      "0"
+    ],
+    [
+      null,
+      "CLIENTES GESTIONADOS",
+      null
+    ],
+    [
+      null,
+      "CITADOS",
+      "0"
+    ],
+    [
+      null,
+      "EFECTIVIDAD",
+      null
+    ]
+  ],
+  "Hoja2": [
+    [
+      "FECHA",
+      "30/05/25",
+      null
+    ],
+    [
+      "CAC",
+      "CAC OAXACA",
+      null
+    ],
+    [
+      "EJECUTIVO",
+      "PATRICIA ZARATE",
+      null
+    ],
+    [
+      null,
+      "TIPO DE FLUJO",
+      null
+    ],
+    [
+      null,
+      "ATENCION GENERAL NO CUENTA TLMK",
+      null
+    ],
+    [
+      "TLMK",
+      "TLMK $60",
+      null
+    ],
+    [
+      null,
+      "TLMK $90",
+      null
+    ],
+    [
+      null,
+      "TLMK $100",
+      null
+    ],
+    [
+      null,
+      "MIGRACIONES TLMK",
+      null
+    ],
+    [
+      null,
+      "JUMP",
+      null
+    ],
+    [
+      null,
+      "TRAFICO TOTAL TLMK",
+      null
+    ],
+    [
+      "POS",
+      "PLAN ILIMTADO",
+      null
+    ],
+    [
+      null,
+      "GIGAMOVE 22",
+      null
+    ],
+    [
+      null,
+      "GIGAMOVE 16",
+      null
+    ],
+    [
+      null,
+      "GIGAMOVE 12",
+      null
+    ],
+    [
+      null,
+      "SOHO",
+      null
+    ],
+    [
+      "TERMINALES",
+      "RENOVACION",
+      null
+    ],
+    [
+      null,
+      "PAYJOY",
+      null
+    ],
+    [
+      null,
+      "PREPAGO",
+      null
+    ],
+    [
+      null,
+      "MSI",
+      null
+    ],
+    [
+      null,
+      "RENO TLMK",
+      null
+    ],
+    [
+      "VENTAS",
+      "POSPAGO TOTAL",
+      null
+    ],
+    [
+      null,
+      "TERMINALES",
+      null
+    ],
+    [
+      null,
+      "PREPAGO TOTAL",
+      null
+    ],
+    [
+      "SEGUROS",
+      null,
+      null
+    ],
+    [
+      "NBA",
+      null,
+      null
+    ],
+    [
+      "COTIZACIONES PAYJOY",
+      "1",
+      null
+    ],
+    [
+      "COTIZACIONES PLATA",
+      null,
+      null
+    ],
+    [
+      "SIM DE REGALO",
+      null,
+      null
+    ],
+    [
+      "TOTAL TRANSACCIONES",
+      "1",
+      null
+    ],
+    [
+      "CONVERSION POS",
+      "1",
+      null
+    ],
+    [
+      "CONVERSION TEMM",
+      "2",
+      null
+    ],
+    [
+      "CONVERSION PAYJOY",
+      "0",
+      null
+    ],
+    [
+      "CONVERSION PRE",
+      "0",
+      null
+    ],
+    [
+      "CONVERSION TMLK",
+      "0",
+      null
+    ],
+    [
+      "BASE DE CLIENTES",
+      "20",
+      null
+    ],
+    [
+      "CLIENTES GESTIONADOS",
+      "0",
+      null
+    ],
+    [
+      "CITADOS",
+      "0",
+      null
+    ],
+    [
+      "EFECTIVIDAD",
+      "0",
+      null
+    ]
+  ]
+}
